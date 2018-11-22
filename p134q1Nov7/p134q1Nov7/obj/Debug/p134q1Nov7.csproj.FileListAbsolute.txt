@@ -1,0 +1,7 @@
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\bin\Debug\p134q1Nov7.exe.config
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\bin\Debug\p134q1Nov7.exe
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\bin\Debug\p134q1Nov7.pdb
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\obj\Debug\p134q1Nov7.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\obj\Debug\p134q1Nov7.exe
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\obj\Debug\p134q1Nov7.pdb
+C:\Users\Edwar\source\repos\p134q1Nov7\p134q1Nov7\obj\Debug\p134q1Nov7.csprojAssemblyReference.cache

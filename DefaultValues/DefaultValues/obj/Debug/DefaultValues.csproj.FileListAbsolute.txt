@@ -1,0 +1,6 @@
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\bin\Debug\DefaultValues.exe.config
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\bin\Debug\DefaultValues.exe
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\bin\Debug\DefaultValues.pdb
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\obj\Debug\DefaultValues.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\obj\Debug\DefaultValues.exe
+C:\Users\Edwar\source\repos\DefaultValues\DefaultValues\obj\Debug\DefaultValues.pdb

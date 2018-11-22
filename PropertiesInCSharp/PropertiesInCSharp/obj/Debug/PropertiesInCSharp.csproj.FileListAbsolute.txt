@@ -1,0 +1,7 @@
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe.config
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.pdb
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csprojAssemblyReference.cache
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.exe
+C:\Users\Edwar\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.pdb

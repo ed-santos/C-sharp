@@ -1,0 +1,24 @@
+﻿<Window x:Class="Nov14WPF.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Nov14WPF"
+        mc:Ignorable="d"
+        Title="Window2" Height="623.368" Width="800">
+    <Grid Margin="0,0,-0.4,84">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Left" Height="135" VerticalAlignment="Top" Width="794" Background="Black">
+            <Image Margin="-17,0,571,0" Source="Image2.png" Stretch="Fill"/>
+            <Label Content="Full Grain - Quality Leather Artisans " HorizontalAlignment="Left" Margin="266,48,0,0" VerticalAlignment="Top" FontFamily="Gill Sans MT" FontSize="28" FontWeight="Bold" Foreground="#FFC69C6C"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="415" Margin="10,159,0,-64.4" VerticalAlignment="Top" Width="774" Grid.RowSpan="3">
+            <DataGrid x:Name="DataGrid" HorizontalAlignment="Left" Height="321" Margin="10,10,0,0" VerticalAlignment="Top" Width="754"/>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\bin\Debug\Nov14WPF.exe.config
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\bin\Debug\Nov14WPF.exe
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\bin\Debug\Nov14WPF.pdb
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.csprojAssemblyReference.cache
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\App.g.cs
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF_MarkupCompile.cache
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF_MarkupCompile.lref
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\MainWindow.baml
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.g.resources
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.Properties.Resources.resources
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.csproj.GenerateResource.cache
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.exe
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Nov14WPF.pdb
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Window2.g.cs
+C:\Users\Edwar\source\repos\Nov14WPF\Nov14WPF\obj\Debug\Window2.baml

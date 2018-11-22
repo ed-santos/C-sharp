@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\edwar\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4101: 'num': unreferenced local variable
+c:\users\edwar\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): error C4700: uninitialized local variable 'num1a' used
+c:\users\edwar\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(20): error C4700: uninitialized local variable 'num2a' used

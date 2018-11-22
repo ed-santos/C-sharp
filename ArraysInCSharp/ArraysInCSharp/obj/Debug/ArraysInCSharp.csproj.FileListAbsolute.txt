@@ -1,0 +1,7 @@
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe.config
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.pdb
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.csprojAssemblyReference.cache
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.exe
+C:\Users\Edwar\source\repos\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.pdb

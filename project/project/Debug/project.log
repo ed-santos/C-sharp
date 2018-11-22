@@ -1,0 +1,10 @@
+﻿  project.cpp
+c:\users\edwar\source\repos\project\project\project.cpp(372): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edwar\source\repos\project\project\project.cpp(373): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edwar\source\repos\project\project\project.cpp(399): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edwar\source\repos\project\project\project.cpp(400): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edwar\source\repos\project\project\project.cpp(416): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edwar\source\repos\project\project\project.cpp(417): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edwar\source\repos\project\project\project.cpp(418): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edwar\source\repos\project\project\project.cpp(622): warning C4129: 'm': unrecognized character escape sequence
+  project.vcxproj -> C:\Users\Edwar\source\repos\project\Debug\project.exe
